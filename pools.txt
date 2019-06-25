@@ -1,5 +1,5 @@
 "pool_list" :
 [
-	{"pool_address" : "cryptonightv8.usa.nicehash.com:3367", "wallet_address" : "3KCmaRbPqRntsXaZ1UChEVDpVH5z6HLBGD", "rig_id" : "xmr-stak-gpu", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "cryptonightv8.usa.nicehash.com:3367", "wallet_address" : "3KCmaRbPqRntsXaZ1UChEVDpVH5z6HLBGD", "rig_id" : "xmrMiner", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 "currency" : "monero",
